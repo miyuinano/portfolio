@@ -81,6 +81,13 @@ nav a:hover{
   max-width:5%;
   height: auto;
 }
+
+.next {
+  position:fixed;
+  right:10%;
+  max-width:10px;
+  width:60%;
+}
 .parent{
 max-width: 93%;
 text-align: center;
