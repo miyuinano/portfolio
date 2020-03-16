@@ -1,6 +1,5 @@
 # portfolio
 ![1 copy](https://user-images.githubusercontent.com/62241675/76757257-f6fd4880-678f-11ea-86f5-5ad4bbed35e3.png)
-![1](https://user-images.githubusercontent.com/62241675/76757265-fa90cf80-678f-11ea-82fa-136fb5e41d31.png)
 ![2 copy](https://user-images.githubusercontent.com/62241675/76757269-fbc1fc80-678f-11ea-9aea-21f9a8b9d86c.png)
 ![2](https://user-images.githubusercontent.com/62241675/76757275-fc5a9300-678f-11ea-8e34-494fa74d4428.png)
 ![3](https://user-images.githubusercontent.com/62241675/76757276-fcf32980-678f-11ea-9c47-d049e151890c.png)
